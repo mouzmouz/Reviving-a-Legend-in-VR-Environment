@@ -1,1 +1,4 @@
-*.cs linguist-language=C#
+*.py linguist-detectable=true
+*.cs linguist-detectable=false
+*.vb linguist-detectable=false
+*.config linguist-detectable=false
