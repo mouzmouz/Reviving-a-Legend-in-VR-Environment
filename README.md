@@ -1,3 +1,5 @@
+** Reviving the Legend of Drakolimni in a VR Environment **
+
 This is my thesis project for my Computer Science and Engineering degree
 
 For my integrated master's thesis, a virtual reality application was developed using Unity3D that revitalizes the dragons' legend surrounding the alpine lakes of Drakolimni in the mountain ranges of Epirus, Greece. The project utilized 3D scenes and models to offer users a realistic and immersive experience of the landscape and its myths. Key features include detailed environmental rendering, folklore integration, and interactive storytelling elements, enhancing user engagement and sense of presence within the virtual world. Special attention is given to the interactions in the VR environment, aiming to deliver an immersive and engaging user experience that bridges virtual and physical realities effectively.
