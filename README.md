@@ -1,20 +1,38 @@
-** Reviving the Legend of Drakolimni in a VR Environment **
+# Reviving the Legend of Drakolimni in a VR Environment
 
-This is my thesis project for my Computer Science and Engineering degree
+## Overview
+This project is my integrated master's thesis for my Computer Science and Engineering degree. A virtual reality application was developed using Unity3D to bring to life the legend of the dragons surrounding the alpine lakes of Drakolimni in the Epirus mountain ranges of Greece. The project leverages 3D scenes and models to provide users with a realistic and immersive experience of the landscape and its myths. 
 
-For my integrated master's thesis, a virtual reality application was developed using Unity3D that revitalizes the dragons' legend surrounding the alpine lakes of Drakolimni in the mountain ranges of Epirus, Greece. The project utilized 3D scenes and models to offer users a realistic and immersive experience of the landscape and its myths. Key features include detailed environmental rendering, folklore integration, and interactive storytelling elements, enhancing user engagement and sense of presence within the virtual world. Special attention is given to the interactions in the VR environment, aiming to deliver an immersive and engaging user experience that bridges virtual and physical realities effectively.
+Key features include detailed environmental rendering, folklore integration, and interactive storytelling elements to enhance user engagement and presence in the virtual world. Special attention is given to interactions within the VR environment to effectively bridge virtual and physical realities.
 
-Features:
-* Realistic Environment – Designed and developed the entire scene from scratch, capturing the atmosphere of Drakolimni
-* Interactive Storytelling – A narrative-driven experience integrating local folklore and myths
-* First-Person VR Controller – Smooth and intuitive movement mechanics for an immersive experience
-* Dynamic Weather Effects – Created a thunderstorm simulation in Unity for enhanced realism
-* Custom 3D Assets & Animations – Modeled and modified 3D assets in Blender, and animated scenes in Unity
-* Advanced Shaders & Unity Physics – Implemented realistic shaders and physics for depth and immersion
-* Historical Collaboration – Developed in partnership with historians and LIME Technology to ensure authenticity
+## See the video!
+https://drive.google.com/file/d/1nSLlGy-KF5u6Bt84klz0022icGascnXe/view?usp=drive_link
 
-Technologies Used:
-* Unity3D
-* C#
-* Blender
+## Features
+- **Realistic Environment** – Designed and developed the entire scene from scratch, accurately capturing the atmosphere of Drakolimni.
+- **Interactive Storytelling** – A narrative-driven experience integrating local folklore and myths.
+- **First-Person VR Controller** – Smooth and intuitive movement mechanics for an immersive experience.
+- **Dynamic Weather Effects** – Created a thunderstorm simulation in Unity for enhanced realism.
+- **Custom 3D Assets & Animations** – Modeled and modified 3D assets in Blender and animated scenes in Unity.
+- **Advanced Shaders & Unity Physics** – Implemented realistic shaders and physics for depth and immersion.
+- **Historical Collaboration** – Developed in partnership with historians and LIME Technology to ensure authenticity.
 
+## Technologies Used
+- **Unity3D** – Game engine used for VR development.
+- **C#** – Programming language used for scripting interactions.
+- **Blender** – 3D modeling software for asset creation and animation.
+
+## Installation & Setup
+### Requirements:
+- Unity3D (Latest stable version recommended)
+- VR headset compatible with Unity (Oculus Rift, HTC Vive, etc.)
+- Windows PC with VR support
+
+### Steps:
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/your-repo/drakolimni-vr.git
+   ```
+2. Open the project in Unity3D.
+3. Ensure VR settings are enabled in **Edit > Project Settings > XR Plug-in Management**.
+4. Press **Play** in the Unity Editor to test the experience or build the project for a VR-supported platform.
